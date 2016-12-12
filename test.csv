@@ -4,21 +4,15 @@ Loyalty Club and Credit Card,Denver,80236,101,6,0.6
 Loyalty Club Only,Englewood,80110,101,7,0.9
 Loyalty Club Only,Denver,80205,103,2,0.6
 Loyalty Club Only,Centennial,80015,104,4,0.5
-Credit Card Only,Denver,80247,105,7,0.7
 Loyalty Club and Credit Card,Highlands Ranch,80126,101,4,1
-Credit Card Only,Aurora,80015,104,6,0.2
-Credit Card Only,Denver,80230,100,6,0
 Loyalty Club Only,Aurora,80016,102,4,0.9
 Store Mailing List,Aurora,80015,104,2,0.9
 Loyalty Club Only,Denver,80231,105,7,0.1
 Loyalty Club Only,Aurora,80013,104,4,0.8
-Credit Card Only,Broomfield,80021,103,5,0.6
-Credit Card Only,Lakewood,80227,101,7,0.9
 Loyalty Club Only,Broomfield,80023,108,3,0.3
 Loyalty Club Only,Aurora,80013,102,5,0.4
 Loyalty Club Only,Denver,80211,106,1,0.9
 Loyalty Club and Credit Card,Centennial,80122,101,27,0.9
-Credit Card Only,Aurora,80010,105,3,0.8
 Loyalty Club Only,Broomfield,80021,103,6,0.6
 Loyalty Club Only,Denver,80219,106,3,0.1
 Loyalty Club Only,Greenwood Village,80121,100,6,0.5
@@ -26,17 +20,12 @@ Loyalty Club Only,Denver,80212,107,3,0.2
 Loyalty Club Only,Arvada,80002,108,6,0.7
 Loyalty Club Only,Thornton,80229,103,2,0.9
 Loyalty Club and Credit Card,Denver,80235,101,2,0.9
-Credit Card Only,Littleton,80120,101,5,0.4
 Loyalty Club and Credit Card,Lakewood,80226,106,12,0.9
 Loyalty Club Only,Denver,80247,101,3,0.8
 Loyalty Club Only,Arvada,80004,108,3,0.2
-Credit Card Only,Centennial,80121,105,7,0.1
-Credit Card Only,Aurora,80013,104,6,0.6
 Store Mailing List,Aurora,80016,102,3,1
-Credit Card Only,Aurora,80016,102,7,0.5
 Loyalty Club and Credit Card,Littleton,80127,101,10,0.2
 Loyalty Club Only,Aurora,80015,104,6,0.3
-Credit Card Only,Denver,80212,107,5,0.1
 Loyalty Club Only,Denver,80210,100,5,0.8
 Loyalty Club Only,Westminster,80031,109,8,0.6
 Loyalty Club and Credit Card,Aurora,80012,105,8,0.2
@@ -44,34 +33,24 @@ Loyalty Club and Credit Card,Parker,80138,102,8,0.9
 Loyalty Club Only,Arvada,80004,108,2,0.6
 Loyalty Club Only,Denver,80205,105,5,1
 Loyalty Club and Credit Card,Arvada,80004,103,13,0
-Credit Card Only,Commerce City,80022,107,6,0.7
-Credit Card Only,Aurora,80013,104,5,0.5
 Store Mailing List,Thornton,80233,107,2,0.3
 Loyalty Club Only,Aurora,80013,104,6,0.2
 Loyalty Club Only,Centennial,80015,104,2,0.8
 Loyalty Club Only,Denver,80206,104,3,1
 Loyalty Club Only,Aurora,80016,102,4,0.6
-Credit Card Only,Aurora,80011,105,3,0.1
 Loyalty Club Only,Littleton,80128,101,2,0.1
 Loyalty Club Only,Aurora,80012,105,1,0.9
 Loyalty Club Only,Northglenn,80260,103,1,0.9
-Credit Card Only,Edgewater,80214,107,7,0.5
 Loyalty Club Only,Centennial,80112,104,7,0.1
-Credit Card Only,Arvada,80003,103,6,0.7
 Loyalty Club Only,Denver,80212,107,4,0.8
 Loyalty Club Only,Denver,80218,100,3,0.3
-Credit Card Only,Lakewood,80228,107,5,0
 Loyalty Club Only,Wheat Ridge,80033,106,4,0.5
 Loyalty Club Only,Denver,80236,101,6,0.5
 Loyalty Club Only,Aurora,80013,104,4,0.9
-Credit Card Only,Lakewood,80226,106,6,0
-Credit Card Only,Aurora,80013,105,5,0.4
 Store Mailing List,Lakewood,80215,106,1,0.4
 Loyalty Club Only,Denver,80202,105,2,0
 Loyalty Club Only,Denver,80246,100,5,0.1
 Store Mailing List,Arvada,80005,108,2,0.5
-Credit Card Only,Aurora,80014,104,7,1
-Credit Card Only,Aurora,80011,105,7,0.5
 Loyalty Club Only,Englewood,80110,101,6,0.1
 Loyalty Club Only,Lakewood,80232,107,2,0.6
 Loyalty Club Only,Broomfield,80020,108,2,0.2
@@ -83,14 +62,10 @@ Loyalty Club Only,Englewood,80112,104,3,0.2
 Loyalty Club Only,Aurora,80013,104,4,1
 Loyalty Club Only,Lakewood,80227,106,4,1
 Loyalty Club Only,Castle Pines,80108,102,4,0.4
-Credit Card Only,Thornton,80260,107,6,0.9
 Loyalty Club and Credit Card,Denver,80235,101,5,0.6
-Credit Card Only,Aurora,80016,104,5,0.7
 Loyalty Club Only,Denver,80222,107,4,0.8
 Store Mailing List,Aurora,80016,102,1,1
-Credit Card Only,Denver,80231,105,6,0.2
 Loyalty Club Only,Arvada,80003,103,8,0.9
-Credit Card Only,Broomfield,80021,103,6,0.4
 Loyalty Club Only,Arvada,80004,103,2,0.4
 Loyalty Club Only,Littleton,80128,106,3,0.6
 Loyalty Club Only,Denver,80236,101,5,0.8
@@ -101,122 +76,78 @@ Loyalty Club Only,Parker,80134,104,1,0.1
 Store Mailing List,Aurora,80011,105,2,0.2
 Loyalty Club Only,Denver,80222,105,4,0.8
 Loyalty Club Only,Broomfield,80020,109,3,1
-Credit Card Only,Centennial,80015,104,4,0.9
 Loyalty Club and Credit Card,Arvada,80004,108,6,0.3
-Credit Card Only,Denver,80229,107,5,0.6
 Loyalty Club Only,Aurora,80013,105,3,0.6
-Credit Card Only,Denver,80203,103,5,1
 Loyalty Club and Credit Card,Lakewood,80214,106,7,0.5
 Loyalty Club Only,Centennial,80112,104,6,0.1
 Loyalty Club Only,Aurora,80015,104,1,0.7
-Credit Card Only,Parker,80134,102,5,0.9
 Loyalty Club and Credit Card,Broomfield,80020,109,6,0.4
-Credit Card Only,Aurora,80013,105,5,0.5
 Loyalty Club Only,Denver,80202,105,4,0.2
-Credit Card Only,Denver,80222,100,4,0.9
 Loyalty Club Only,Denver,80235,101,4,0.3
-Credit Card Only,Westminster,80031,103,5,0.8
 Store Mailing List,Arvada,80004,108,1,0.4
-Credit Card Only,Highlands Ranch,80130,104,6,0.2
 Loyalty Club Only,Denver,80204,101,5,0.8
 Loyalty Club Only,Denver,80260,109,3,0.6
 Loyalty Club Only,Aurora,80012,105,2,0.1
-Credit Card Only,Aurora,80011,105,5,0.9
-Credit Card Only,Arvada,80005,103,5,0.1
 Loyalty Club Only,Lakewood,80232,106,7,1
-Credit Card Only,Lakewood,80226,101,10,0.1
 Loyalty Club Only,Lakewood,80227,101,5,0.9
-Credit Card Only,Denver,80211,107,5,0.8
 Loyalty Club Only,Aurora,80014,104,2,0.4
-Credit Card Only,Denver,80205,107,7,0.4
 Loyalty Club Only,Arvada,80003,108,4,0.2
-Credit Card Only,Lakewood,80232,106,5,0.3
 Loyalty Club Only,Aurora,80013,104,4,0.1
-Credit Card Only,Aurora,80013,104,3,0.4
-Credit Card Only,Denver,80204,106,6,0.9
 Loyalty Club Only,Northglenn,80234,103,6,0.4
-Credit Card Only,Wheat Ridge,80033,108,5,0.9
-Credit Card Only,Denver,80247,100,3,0.8
-Credit Card Only,Broomfield,80021,103,5,0.5
 Loyalty Club Only,Aurora,80013,104,4,0.6
 Loyalty Club Only,Denver,80220,105,5,0.2
 Loyalty Club Only,Denver,80204,103,4,0.3
-Credit Card Only,Littleton,80123,106,5,0.2
 Loyalty Club Only,Wheat Ridge,80033,106,4,0.6
-Credit Card Only,Denver,80222,100,7,0.4
 Loyalty Club Only,Broomfield,80020,109,4,1
 Loyalty Club and Credit Card,Aurora,80011,105,10,0.5
 Loyalty Club Only,Broomfield,80021,107,2,0.3
 Loyalty Club Only,Denver,80224,100,4,0.9
 Loyalty Club Only,Aurora,80015,104,5,0.2
-Credit Card Only,Denver,80202,103,2,0.8
 Loyalty Club Only,Denver,80210,100,4,0.8
-Credit Card Only,Denver,80210,100,6,0.2
 Loyalty Club Only,Denver,80211,103,6,0.6
 Loyalty Club Only,Arvada,80004,108,1,1
 Loyalty Club Only,Denver,80211,101,3,0.7
-Credit Card Only,Littleton,80123,101,7,0.9
 Loyalty Club Only,Aurora,80017,104,3,0.5
 Loyalty Club Only,Aurora,80012,104,1,0.4
 Store Mailing List,Arvada,80003,108,2,0.3
 Loyalty Club Only,Aurora,80014,105,3,0.1
-Credit Card Only,Aurora,80012,105,1,0.7
 Loyalty Club Only,Denver,80224,105,2,0.8
 Loyalty Club and Credit Card,Wheat Ridge,80033,108,9,0.7
-Credit Card Only,Westminster,80031,109,6,0.6
-Credit Card Only,Arvada,80003,107,5,0.6
 Loyalty Club Only,Denver,80247,105,6,0.9
 Store Mailing List,Aurora,80013,102,2,0.4
 Loyalty Club and Credit Card,Westminster,80031,103,11,0.4
-Credit Card Only,Aurora,80012,105,4,0.6
 Loyalty Club Only,Northglenn,80233,107,4,0.1
-Credit Card Only,Denver,80227,101,5,0.8
 Loyalty Club Only,Denver,80246,106,3,0.1
 Loyalty Club Only,Aurora,80012,105,7,0.9
 Store Mailing List,Lakewood,80214,107,2,0.2
 Loyalty Club and Credit Card,Arvada,80003,100,9,0.3
-Credit Card Only,Arvada,80005,103,7,0.1
-Credit Card Only,Centennial,80112,102,5,0.7
 Loyalty Club Only,Denver,80227,101,5,1
 Loyalty Club Only,Aurora,80015,105,6,0.2
 Store Mailing List,Denver,80205,107,1,0.6
-Credit Card Only,Aurora,80014,104,6,0.6
-Credit Card Only,Louisville,80027,109,5,0.3
-Credit Card Only,Lakewood,80228,106,5,0.7
 Store Mailing List,Aurora,80017,104,1,0.7
-Credit Card Only,Denver,80211,100,8,1
 Loyalty Club Only,Denver,80230,107,3,1
 Loyalty Club Only,Denver,80212,107,4,1
-Credit Card Only,Aurora,80011,100,5,0.6
 Loyalty Club Only,Arvada,80004,108,4,0.7
-Credit Card Only,Littleton,80127,101,7,0.7
 Loyalty Club and Credit Card,Parker,80134,102,8,0.7
-Credit Card Only,Arvada,80002,109,5,0.2
 Loyalty Club Only,Commerce City,80022,107,3,0.1
 Loyalty Club Only,Aurora,80013,105,5,0.8
-Credit Card Only,Denver,80236,101,6,0.2
 Loyalty Club Only,Arvada,80005,109,3,0.8
 Store Mailing List,Denver,80203,107,3,0.1
 Store Mailing List,Denver,80247,100,2,0.9
 Loyalty Club and Credit Card,Denver,80207,106,11,0.7
 Loyalty Club and Credit Card,Westminster,80020,107,4,0.9
-Credit Card Only,Lakewood,80215,107,1,0.9
 Loyalty Club Only,Denver,80219,100,3,0.5
 Loyalty Club Only,Broomfield,80020,109,4,0.9
 Loyalty Club Only,Lakewood,80226,106,4,0.8
 Loyalty Club and Credit Card,Aurora,80017,105,3,0.7
 Loyalty Club Only,Denver,80212,107,4,0.2
 Loyalty Club Only,Broomfield,80020,109,5,1
-Credit Card Only,Denver,80220,100,2,0.5
-Credit Card Only,Denver,80219,101,5,0.5
 Loyalty Club Only,Broomfield,80020,108,2,0
 Loyalty Club Only,Aurora,80012,105,1,0.3
 Store Mailing List,Aurora,80017,105,1,0.7
 Loyalty Club Only,Lakewood,80227,101,5,0.2
 Loyalty Club Only,Lakewood,80214,103,6,0.5
 Store Mailing List,Aurora,80014,100,1,0.8
-Credit Card Only,Denver,80212,107,6,0.6
-Credit Card Only,Lakewood,80232,106,7,0.2
 Loyalty Club and Credit Card,Westminster,80020,109,6,0.6
 Loyalty Club Only,Denver,80224,106,6,0.7
 Loyalty Club Only,Aurora,80011,105,4,1
@@ -225,27 +156,14 @@ Loyalty Club and Credit Card,Littleton,80123,101,7,0.6
 Loyalty Club Only,Denver,80204,106,4,0.6
 Loyalty Club Only,Golden,80401,106,4,0.4
 Loyalty Club Only,Arvada,80005,103,4,0.4
-Credit Card Only,Aurora,80013,105,6,0.3
 Loyalty Club and Credit Card,Englewood,80111,105,6,0.5
 Loyalty Club Only,Arvada,80005,109,2,0.9
 Loyalty Club Only,Aurora,80010,105,1,0.8
-Credit Card Only,Arvada,80004,107,6,0.5
 Loyalty Club Only,Lakewood,80227,106,6,0.8
 Loyalty Club and Credit Card,Lakewood,80226,106,3,0.9
 Loyalty Club Only,Denver,80212,107,1,0.7
-Credit Card Only,Denver,80212,107,6,0.6
-Credit Card Only,Littleton,80128,100,5,0.9
 Loyalty Club Only,Lakewood,80228,108,2,0.7
-Credit Card Only,Arvada,80005,109,9,0.3
-Credit Card Only,Aurora,80015,105,4,0.4
-Credit Card Only,Lakewood,80214,106,5,0.9
 Loyalty Club Only,Denver,80206,105,4,0
-Credit Card Only,Aurora,80015,105,5,0.9
-Credit Card Only,Denver,80210,100,8,0.9
-Credit Card Only,Lakewood,80227,101,5,0.9
 Store Mailing List,Wheat Ridge,80033,106,2,0.9
-Credit Card Only,Lakewood,80228,107,18,0.3
 Loyalty Club Only,Golden,80401,106,3,0.6
 Loyalty Club Only,Denver,80247,100,6,0.1
-Credit Card Only,Lakewood,80227,101,7,0.2
-Credit Card Only,Aurora,80011,100,5,0.5
